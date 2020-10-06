@@ -1,0 +1,75 @@
+.img1{ 
+    position: absolute;
+    left: 500px;
+    top: 160px;}
+
+    .barra{ top: 12px;
+        font-style: inherit;
+        left: 23%;
+        position:absolute;
+        font-family: 'Peddana', serif;
+        font-size: 23px;
+        word-spacing: 25px;
+    }
+    .me{ background: none;
+        color: #239b73 ;
+        font-family: 'Peddana', serif; 
+        font-size: 23px;
+        border:none;
+        outline: none; }
+    
+    .contact{ background: rgba(128, 255, 0, 0);
+        font-family: 'Peddana', serif ;
+        font-size: 23px;
+        border:none;
+        outline: none; }
+
+    .home{ background: rgba(128, 255, 0, 0);
+        font-family: 'Peddana', serif ;
+        font-size: 23px;
+        border:none;
+        outline: none; }
+
+    .port{ 
+        position: absolute;
+        left: 830px;
+        top: 420px;
+        height: 45px;
+        width: 150px;
+        cursor: pointer;
+        font-family: 'Peddana', serif;
+        color: #fff;
+        font-size: 20px;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        background: #007A63;
+        border-radius: 25px;}
+
+    .text{ position: absolute;
+        line-height: 25px;
+        top: 80px;
+        left: 180px;
+    }
+
+    .text1{line-height: 12px;
+        font-style: inherit;
+        font-size: 35px;}
+    
+    .text2{ font-weight: bold;
+        color: rgb(104, 104, 104);}
+
+    .text3{ position: absolute;
+        line-height: 25px;
+        top: 160px;
+        left: 830px;
+        font-weight: bold;
+        color: rgb(104, 104, 104);}
+    
+    .ab{background: none;
+        color: #239b73 ;
+        font-family: 'Peddana', serif; 
+        font-size: 23px;
+        border:none;}
+
+    .line{color: #239b73;}
